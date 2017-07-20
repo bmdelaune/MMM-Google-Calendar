@@ -1,0 +1,23 @@
+{
+  "name": "Magic-Mirror-Module-Google-Calendar",
+  "description": "Google Calendar module for the Magic Mirror.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmdelaune/MMM-Google-Calendar"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "wunderlist",
+    "module"
+  ],
+  "author": "Bradley Delaune",
+  "contributors": [ "https://github.com/bmdelaune/MMM-Google-Calendar/graphs/contributors" ],
+  "license": "MIT",
+
+  "homepage": "https://github.com/bmdelaune/MMM-Google-Calendar#readme",
+  "dependencies": {
+    
+  }
+}
